@@ -1,9 +1,9 @@
 class Cliwt < Formula
-  desc "Cute terminal waifu tamagotchi"
+  desc "Customizable Cli Waifu Tamagotchi."
   homepage "https://github.com/HenryLoM/CliWaifuTamagotchi"
-  url "https://github.com/HenryLoM/CliWaifuTamagotchi/releases/download/v1.0.1/cliwt-v1.0.1-macos-arm64.tar.gz"
-  sha256 "2e34e203d0885716f19f99424edbf1fdfb9a370f3b0ff06f4690e4d418e65ac3"
-  version "1.0.1"
+  url "https://github.com/HenryLoM/CliWaifuTamagotchi/releases/download/v1.0.2/cliwt-v1.0.2-macos-arm64.tar.gz"
+  sha256 "2607054b1dde6d5d5680d008b2620d937a7241bce1d9c5487cfa9927c0d859d4"
+  version "1.0.2"
 
   def install
     # Install binary from the archive to bin/
